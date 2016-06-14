@@ -1,5 +1,5 @@
 FullStackDeveloperCourse
-===============
+==============
 教你成为全栈工程师
 ==============
  * [教你成为全栈工程师(Full Stack Developer) 〇-什么是全栈工程师](http://www.shareditor.com/blogshow/?blogId=2)
