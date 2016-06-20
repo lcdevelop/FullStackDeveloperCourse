@@ -44,3 +44,4 @@ FullStackDeveloperCourse
  * [教你成为全栈工程师(Full Stack Developer) 三十九-简单几步做到外链自动生成，从此妈妈再也不用担心我的SEO](http://www.shareditor.com/blogshow/?blogId=52)(2016-05-30)
  * [教你成为全栈工程师(Full Stack Developer) 四十-pdf文档自动生成方法](http://www.shareditor.com/blogshow/?blogId=62)(2016-06-07)
  * [教你成为全栈工程师(Full Stack Developer) 四十一-如何准确的统计文章浏览量(pv)](http://www.shareditor.com/blogshow/?blogId=66)(2016-06-13)
+ * [教你成为全栈工程师(Full Stack Developer) 四十二-利用n-n表关联实现文章标签](http://www.shareditor.com/blogshow/?blogId=68)(2016-06-20)
