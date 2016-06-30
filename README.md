@@ -1,5 +1,9 @@
 FullStackDeveloperCourse
 ==============
+_欢迎关注我的另外两个github项目_
+ * [_自己动手做聊天机器人教程_](https://github.com/warmheartli/ChatBotCourse)
+ * [_机器学习精简入门教程_](https://github.com/warmheartli/MachineLearningCourse)
+
 教你成为全栈工程师
 ==============
  * [教你成为全栈工程师(Full Stack Developer) 〇-什么是全栈工程师](http://www.shareditor.com/blogshow/?blogId=2)(2016-04-04)
