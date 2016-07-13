@@ -50,3 +50,4 @@ _欢迎关注我的另外两个github项目_
  * [教你成为全栈工程师(Full Stack Developer) 四十一-如何准确的统计文章浏览量(pv)](http://www.shareditor.com/blogshow/?blogId=66)(2016-06-13)
  * [教你成为全栈工程师(Full Stack Developer) 四十二-利用n-n表关联实现文章标签](http://www.shareditor.com/blogshow/?blogId=68)(2016-06-20)
  * [教你成为全栈工程师(Full Stack Developer) 四十三-网站优化必备良器：点击事件的上报与统计](http://www.shareditor.com/blogshow/?blogId=84)(2016-07-11)
+ * [教你成为全栈工程师(Full Stack Developer) 四十四-如何基于数据统计做网站页面布局的优化和适配](http://www.shareditor.com/blogshow/?blogId=85)(2016-07-13)
