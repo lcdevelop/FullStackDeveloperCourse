@@ -1,5 +1,9 @@
 FullStackDeveloperCourse
 ==============
+_读我的更多原创文章，欢迎关注微信公众号_
+
+<img src="https://github.com/warmheartli/MachineLearningCourse/blob/master/weixinpub.jpg" width = "150" height = "150" alt="SharEDITor" />
+
 _欢迎关注我的另外两个github项目_
  * [_自己动手做聊天机器人教程_](https://github.com/warmheartli/ChatBotCourse)
  * [_机器学习精简入门教程_](https://github.com/warmheartli/MachineLearningCourse)
